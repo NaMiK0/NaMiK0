@@ -18,13 +18,13 @@ Backend-разработчик. Пишу на Python, основной стек 
 **Коммерческий AI-агент для автоматизации карточек товаров** - код закрыт
 Интернет-магазин электроники. Заменил ручной процесс, отнимавший у сотрудника 30-50 часов в месяц на ~300 товаров. Python, Playwright, Flask, OpenAI API: извлечение характеристик из неструктурированного текста и vision-проверка фотографий.
  
-### Стек
- 
-**Backend:** Python, FastAPI, SQLAlchemy 2.0, Alembic, asyncio, Pydantic, Pytest
-**Frontend:** React 19, TypeScript (strict), TanStack Query, Tailwind, Next.js
-**Данные:** PostgreSQL, Redis, SQLite, RabbitMQ
-**Инфраструктура:** Docker, Docker Compose, Linux, Git, GitHub Actions, Grafana
-**AI:** OpenAI SDK, OpenRouter, LangChain, промпт-инжиниринг, Claude Code как основной рабочий инструмент
+## Стек
+
+- **Backend:** Python, FastAPI, SQLAlchemy 2.0, Alembic, asyncio, Pydantic, Pytest
+- **Frontend:** React, TypeScript (strict), TanStack Query, Tailwind, Next.js
+- **Данные:** PostgreSQL, Redis, SQLite, RabbitMQ
+- **Инфраструктура:** Docker, Docker Compose, Linux, Git, GitHub Actions, Grafana
+- **AI:** OpenAI SDK, OpenRouter, LangChain, промпт-инжиниринг, Claude Code
  
 ### Связаться
  
